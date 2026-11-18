@@ -31,4 +31,5 @@ jobs:
           name: AltView-Pojav-1.21.11-Jar
           path: |
             build/libs/*.jar
-            !build/libs/*-sources.jar
+            !build/libs/*-source
+            s.jar
